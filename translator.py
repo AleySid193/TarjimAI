@@ -287,6 +287,6 @@ with col1:
 st.markdown("---")
 st.markdown("""
     <div style='text-align: center'>
-        <p>Built with ❤️ using PyTorch and Streamlit</p>
+        <p>Dev: Ali & Soban</p>
     </div>
 """, unsafe_allow_html=True)
